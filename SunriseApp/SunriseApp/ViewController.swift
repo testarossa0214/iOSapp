@@ -21,6 +21,7 @@ class ViewController: UIViewController {
 
 
     @IBAction func findSunrise(_ sender: Any) {
+        let url = ""
     }
 }
 
